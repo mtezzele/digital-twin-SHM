@@ -11,4 +11,5 @@ Torzoni Matteo, Tezzele Marco, Mariani Stefano, Manzoni Andrea, and Willcox Kare
     pages = {116584},
     title = {{A digital twin framework for civil engineering structures}},
     volume = {418},
-    year = {2024}}
+    year = {2024}
+    }
